@@ -1,0 +1,1 @@
+ESX doesn't require a sql, as they have built in playtime for players.
