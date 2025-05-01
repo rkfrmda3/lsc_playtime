@@ -42,7 +42,7 @@ end
 
 exports('getPlayerTime', getPlayerTime)
 
--- exports.lsc_playtime:getPlayerTime(playerId)
+-- exports.lsc_playtime:getPlayerTime(playerId) or exports['lsc_playtime']:getPlayerTime(playerId)
 
 if Config.Framework == 'esx' then
     local function checkPlaytime(playerId)
